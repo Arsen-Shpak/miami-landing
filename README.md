@@ -1,8 +1,9 @@
 
-Stack:
-HTML5
-SASS(SCSS)
-JS
-Design of the landing page you could find here.
+Tech Stack:
+HTML5,
+SASS(SCSS),
+JS,
+BEM
 
-DEMO LINK
+Landing page:
+[Demo](https://arsen-shpak.github.io/miami-landing/)
